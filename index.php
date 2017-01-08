@@ -55,7 +55,7 @@
 
 <body>
 
-	<div class="container" style=" background-image: url('../photo/home.jpg') fixed no-repeat;margin-top: 0px; width: 100%;height:100%;align:center">
+	<div class="container" style="margin-top: 0px; width: 100%;height:100%;align:center">
 <!-- MAIN NAV START -->
 		<div class="row" >
 			<nav class="navbar-fixed-top" style="border-radius:0 0 5px 5px;background:#BDBDBD; width: 100%;margin:0 auto;">
